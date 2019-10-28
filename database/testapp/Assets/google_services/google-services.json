@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "390353622580",
+    "firebase_url": "https://testrealtimedatabase-32d24.firebaseio.com",
+    "project_id": "testrealtimedatabase-32d24",
+    "storage_bucket": "testrealtimedatabase-32d24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390353622580:android:61a3cd0419ccde90d01c61",
+        "android_client_info": {
+          "package_name": "com.google.firebase.unity.database.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390353622580-1gu268mmpkkhjkdt68pvn5oqj1kbha8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbztuAC4FrO5DNdcs4P6UPfi17kFeF5A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390353622580-1gu268mmpkkhjkdt68pvn5oqj1kbha8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
